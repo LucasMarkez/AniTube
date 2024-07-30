@@ -1,0 +1,11 @@
+body {
+    color:whitesmoke;
+    background-color: rgb(16, 0, 2);
+    font: normal 22pt Arial;
+}
+h1 {
+    color: #ffffff;
+}
+p {
+    color: rgb(255, 255, 255);
+}
