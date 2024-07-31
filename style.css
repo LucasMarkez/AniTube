@@ -1,10 +1,21 @@
+header{ 
+    border-bottom: solid 3px lightcoral;
+    padding: 10px;
+    font-size: larger;
+}
 body {
     color:whitesmoke;
     background-color: rgb(16, 0, 2);
     font: normal 22pt Arial;
+    margin: 10px;
 }
 h1 {
     color: #ffffff;
+    margin-left: 12px;
+    margin-right: 12px;
+    border: solid 5px lightcoral;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 p {
     color: rgb(255, 255, 255);
