@@ -35,3 +35,6 @@ section {
     margin-right: 25px;
     padding: auto;
 }
+.hyouka {
+    overflow-x: auto;
+}
