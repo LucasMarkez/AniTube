@@ -27,14 +27,23 @@ p {
 }
 section {
    display: flex;
-   justify-content: center;
+   justify-content: end;
    border: solid 1px lightcoral;
    border-style: double;
+
+
 }
 .text_block {
     margin-right: 25px;
-    padding: auto;
+    padding-inline-start: 10px;
+    text-align: center;
 }
 .hyouka {
-    overflow-x: auto;
+    border: solid 5px lightcoral;
+    padding: 0px;
+    margin-right: 0%;
+    content: end;
+    
+    
+    
 }
